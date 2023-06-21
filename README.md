@@ -12,6 +12,14 @@ The project aims to provide insights into the geographical distribution of unico
 
 
 
+**Data Visualisation**
+
+<img width="405" alt="Screenshot 2023-06-21 131011" src="https://github.com/nancyjain042/Unicorn-SQL-Power-BI/assets/136807881/10376d5e-f952-4481-9544-c2f70f2da5c3">
+<img width="404" alt="Screenshot 2023-06-21 130757" src="https://github.com/nancyjain042/Unicorn-SQL-Power-BI/assets/136807881/3729a158-eff3-400b-8f98-fd2d84eddc27">
+
+
+
+
 **Key Insights**
 1. 5-6 years is the most frequent duration required to achieve the unicorn status.
 2. Although AI is the 4th largest in the global unicorn industries, it joins Fintech as the best overall performing industries.
