@@ -1,4 +1,4 @@
-# Unicorn-SQL-Power-BI
+# Unicorn Analysis-SQL-Power-BI
 **Overview:**
 The purpose of this Power BI project is to analyze and visualize the global distribution of unicorn companies.
 Unicorn companies refer to privately held startup companies with a valuation of over $1 billion.
